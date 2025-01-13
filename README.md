@@ -50,4 +50,4 @@ Feel free to contribute to the project by submitting a pull request. Before cont
 This project is licensed under the **GNU General Public License** (GPL) Version 3. See the [LICENSE](LICENSE) file for more details.
 ```
 
-This version includes the **GNU General Public License** (GPL) Version 3 as requested. Let me know if you need further adjustments!
+This version includes the **GNU General Public License** (GPL) Version 3 as requested.
